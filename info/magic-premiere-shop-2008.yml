@@ -1,0 +1,15 @@
+---
+object: set
+id: bfaa9b8b-d62e-4c8a-9f26-7ad85bdf519f
+code: pmps08
+name: Magic Premiere Shop 2008
+uri: https://api.scryfall.com/sets/bfaa9b8b-d62e-4c8a-9f26-7ad85bdf519f
+scryfall_uri: https://scryfall.com/sets/pmps08
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmps08&unique=prints
+released_at: '2008-01-01'
+set_type: promo
+card_count: 6
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pmps.svg?1694404800
